@@ -4,3 +4,5 @@ handler = ipinfo.getHandler(access_token)
 ip_adress = 'ip_adress'
 details = handler.getDetails(ip_adress)
 details.city
+
+# pip install info -> Library
